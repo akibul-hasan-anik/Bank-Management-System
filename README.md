@@ -13,11 +13,3 @@ This project is a desktop-based Bank Management System developed using Java and 
 * Loan Management
 * PIN Change
 * Account Removal
-
-# Technologies Used
-
-- Java
-- Swing (GUI)
-- JDBC (Database Connectivity)
-- NetBeans IDE
-
